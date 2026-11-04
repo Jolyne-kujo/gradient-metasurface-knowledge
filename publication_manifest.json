@@ -25,9 +25,9 @@
   },
   {
     "path": "data/anchors.json",
-    "size": 25707,
-    "sha256": "0e4fffcccd9c505509b2e1dc8591dbc35530c5190d195e8078e2bea0dd1254d0",
-    "git_blob_sha": "db2331da30fb1aaeaad7e72759fa7b4319562452"
+    "size": 26577,
+    "sha256": "acd2e7e95a7074d5b1d69db16e838dc5cb49d1f1959f39585a88b4ead19ec782",
+    "git_blob_sha": "f00b7a9d9b247b7202d6721c50653ec205996afc"
   },
   {
     "path": "data/annotations.json",
@@ -37,9 +37,9 @@
   },
   {
     "path": "data/candidate_readings.json",
-    "size": 5726,
-    "sha256": "e249e3f6a4257fd717551fea810ed2ef8fb0d722075484d8c13965abb7d1712e",
-    "git_blob_sha": "1bc5d10fcaf6137141f024a62eae4d00877771e3"
+    "size": 4657,
+    "sha256": "72d035e5fa710146de163762b8ac4bc0e21ce0bb9d1a94458ae7470f6868c0cc",
+    "git_blob_sha": "82dde6ed29d203f48f3b7fe1be43f5bbf3280fb2"
   },
   {
     "path": "data/claims.json",
@@ -67,15 +67,15 @@
   },
   {
     "path": "data/knowledge_base.json",
-    "size": 638157,
-    "sha256": "24535b5e4b0b00aecc3d89ce38162c4a1e99fa52709a0ff57ee57e9070296b2d",
-    "git_blob_sha": "41eb6a7fdb4cfb641fe946a227a5b29d5f84d5ec"
+    "size": 648603,
+    "sha256": "dee885c8fba2b741b2a7e8476f37705655f08050b86199b77c7a8a9be03be6c6",
+    "git_blob_sha": "f53b88eaea9d93ff4f177f59ffcb772c95a3fe42"
   },
   {
     "path": "data/papers.json",
-    "size": 6205,
-    "sha256": "abe56878571e7d96d1005b6fe57f204d8a11104db0363d7fe4ecd61a4ab2a771",
-    "git_blob_sha": "a7cf0d544340b2e993b38e755d7ce3a38e53d764"
+    "size": 7465,
+    "sha256": "36f3c28fe9f6f0f637440e9adadda67833592858285fbeed6b0d4586d28988a8",
+    "git_blob_sha": "379e8fc2f8e2b67944834facdc68f302af8d2a5b"
   },
   {
     "path": "data/parameters.json",
@@ -85,9 +85,9 @@
   },
   {
     "path": "data/reading_routes.json",
-    "size": 6729,
-    "sha256": "b58beb74625cfd4ba4f00275bc7c104a27468a9f022f18fbf04bfe130cab4c00",
-    "git_blob_sha": "e6472dabd697a065fac520f52a2e44b02693d93b"
+    "size": 15275,
+    "sha256": "fe248c57cddbb8b26b53ef067296ec0b97ef1493e9f6c2fd7032a97983ac641c",
+    "git_blob_sha": "f67779511affcf03c276b2e8a9e635b588f8d90b"
   },
   {
     "path": "data/relations.json",
@@ -103,9 +103,9 @@
   },
   {
     "path": "data/sources.json",
-    "size": 6000,
-    "sha256": "3a54f18609d982deb770d9b7984fad2724e5c34516609a1cfd81ce6587a5dff6",
-    "git_blob_sha": "c1c38c0a47b64df339dae0696c869566cd9bf315"
+    "size": 6579,
+    "sha256": "13ca39e04c9865346e4fc14e97bb95c69df6e54c6eaff801805e6daac4b05081",
+    "git_blob_sha": "86529e6370c55323177d7885ba5e987d37fdf1af"
   },
   {
     "path": "data/symbols.json",
@@ -253,15 +253,15 @@
   },
   {
     "path": "evidence/validation_report.json",
-    "size": 28747,
-    "sha256": "384707b77508f2e42ab592abe0965cf582a4b2fe4ad5e1dddbd2004b505743ea",
-    "git_blob_sha": "671a7134108dae7a0279a2c21b77d735afe95225"
+    "size": 28930,
+    "sha256": "854f4576ff9a0f172093a9d19d2db08d6f050c447ec08804ac0ef74e45ccd1c1",
+    "git_blob_sha": "67f288563171bd2c87724001cca9ca680a5125c2"
   },
   {
     "path": "index.html",
-    "size": 4331,
-    "sha256": "d1ef2ba743cbc963789dafce1fcb2b5250859ec2b6ef62a421a058d53d3f32d7",
-    "git_blob_sha": "ef1ce190a2104b07f975669a792630c9f619a7a7"
+    "size": 4949,
+    "sha256": "1e4ba56150285f0652f6f7e69b612e1f0c7156938fbaf30b46e9ae54ad4995f7",
+    "git_blob_sha": "6bfe57528c7eac032ef790f65c920532ddff2a92"
   },
   {
     "path": "README.md",
@@ -451,9 +451,9 @@
   },
   {
     "path": "review/style.css",
-    "size": 2525,
-    "sha256": "140294dcdb878c1ea1c812f1f3f765db3a1d4ee69e0578dc80d78a9ce4b07e16",
-    "git_blob_sha": "d3cbdd58476542c70a4560472b2cbc560a397ccc"
+    "size": 4319,
+    "sha256": "4af94b40040771b4240e3cc76a737d598221ae0534d8a19abe10e885b5a61f43",
+    "git_blob_sha": "b9e440716e8f910532be0a8d8d0fc7e99c41bb0c"
   },
   {
     "path": "review/terms-data.js",
@@ -469,39 +469,39 @@
   },
   {
     "path": "review/公式与符号.html",
-    "size": 63833,
-    "sha256": "a2a631d87be773356f03ce56a10ad2798fdbe2dd0e501b1ae2b64c57fb2c91f4",
-    "git_blob_sha": "a08544089b027cbebf6a29d0a0a04341946b8e58"
+    "size": 63835,
+    "sha256": "474575d45f9db3353a34bd932dc1a5f2853efe1754a680a09cafc2cd7c2a21a8",
+    "git_blob_sha": "228307ee5747dc1b8f00b0c2bd26558fdd0d5474"
   },
   {
     "path": "review/图解与仿真.html",
-    "size": 24310,
-    "sha256": "2c6f9cdac824d63f6290813cce0dca60602969a2bdf6abb98b2dadbaed82c745",
-    "git_blob_sha": "44e0b39a62a4bb99894f0dd38ea108c9fba34d9e"
+    "size": 24312,
+    "sha256": "35d32ba42b63116d3070d1beb23bfb014436fa28050d8e7036b427e6a5d29c69",
+    "git_blob_sha": "f3451c517e3e44c7bda38ce5d18f185d5e06b930"
   },
   {
     "path": "review/术语表.html",
-    "size": 255006,
-    "sha256": "c13655ea4f985fdd191692f1042a9eb6602ec06fa2ba64e2371ff31d377c19ca",
-    "git_blob_sha": "6349f37e5930ce9c1981556bdfb5e0d8b149af57"
+    "size": 255008,
+    "sha256": "a0133ed6712fd54bf523b4870d897b55288aeee09d80507778020910a0d7c233",
+    "git_blob_sha": "a09896811ae71d0f649567ee272188418a2ad8e8"
   },
   {
     "path": "review/来源证据.html",
-    "size": 27138,
-    "sha256": "6be48512d358dc3e119dc0a615674e149e74f9f7ce3beb7cc8eaa7292514a31a",
-    "git_blob_sha": "310ec338df8f6b22ede30695d584d74922f18466"
+    "size": 28652,
+    "sha256": "6f661c437b09039ebffdbea9a10538c18ab1ca01ddad73122eb1e9525c930f20",
+    "git_blob_sha": "299f2a13e3bb4ed8d05e5249de9f26c4fdbdee08"
   },
   {
     "path": "review/逐图与参数.html",
-    "size": 53090,
-    "sha256": "ad27d9bf8ebe360f96a7db59333482e0501205f128a17b38af1d4c0ef5c07a11",
-    "git_blob_sha": "65ef3165bd4a0d65a1a86bc67bf33b0206463442"
+    "size": 54513,
+    "sha256": "427b5f148b6afcca45b5a54ceb9251168190009f2ce0285db27985aa344bfe9f",
+    "git_blob_sha": "a2f8111af5e716cad27c0de3dee461c0652287c7"
   },
   {
     "path": "review/阅读路线.html",
-    "size": 27044,
-    "sha256": "996817a2ef083c8867f5bff47e8bae535ddabfba7e223c80094ca977b7f05838",
-    "git_blob_sha": "ef887a2d7675a44675befe1a6fbe94d172035d90"
+    "size": 54522,
+    "sha256": "f884746fa5f1715c79527741d93bb51d67cacbf1bc602d1ee3a2deae06769eb9",
+    "git_blob_sha": "b0667cbac2b28156d655fd84881d231fec1c5ece"
   },
   {
     "path": "sources/course_build.lsf",
@@ -565,9 +565,9 @@
   },
   {
     "path": "tools/render_review.py",
-    "size": 25240,
-    "sha256": "8359d8ac0fc034577c85a728cad66c4b37d998beb6e104017aee228b8382d0cb",
-    "git_blob_sha": "6783391c4552382af6a9d0408b0023174afb235b"
+    "size": 30165,
+    "sha256": "7be1428d3ad4c47bd507d8a6ba99399cfbcceea1acc9c3910e76be567f3969ce",
+    "git_blob_sha": "a51a39ddb075558267efb976159d6d19e2198d35"
   },
   {
     "path": "tools/validate_knowledge.py",
